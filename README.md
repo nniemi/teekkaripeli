@@ -2,6 +2,8 @@
 
 **This school project was done with a pair, the other contributor is @Real-bay**
 
+This project is made with Python and especially with Tkinter -library.
+
 This program is a version of the traditional game of hangman, made with
 a healthy dose of teekkarihumor. The program contains 18 different
 words, which can then be guessed by the user. Guessed letters show up at the
